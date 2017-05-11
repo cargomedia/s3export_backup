@@ -1,3 +1,6 @@
+DEPRECATED
+==========
+
 s3export_backup
 ===============
 
